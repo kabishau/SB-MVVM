@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  SB-MVVM
-//
-//  Created by user139405 on 8/8/18.
-//  Copyright © 2018 user139405. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
